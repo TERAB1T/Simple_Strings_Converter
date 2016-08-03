@@ -1,0 +1,9 @@
+E:\projects\Simple Strings Converter\Simple Strings Converter\bin\Debug\Simple Strings Converter.exe.config
+E:\projects\Simple Strings Converter\Simple Strings Converter\bin\Debug\Simple Strings Converter.exe
+E:\projects\Simple Strings Converter\Simple Strings Converter\bin\Debug\Simple Strings Converter.pdb
+E:\projects\Simple Strings Converter\Simple Strings Converter\obj\Debug\Simple Strings Converter.csprojResolveAssemblyReference.cache
+E:\projects\Simple Strings Converter\Simple Strings Converter\obj\Debug\Simple_Strings_Converter.Form1.resources
+E:\projects\Simple Strings Converter\Simple Strings Converter\obj\Debug\Simple_Strings_Converter.Properties.Resources.resources
+E:\projects\Simple Strings Converter\Simple Strings Converter\obj\Debug\Simple Strings Converter.csproj.GenerateResource.Cache
+E:\projects\Simple Strings Converter\Simple Strings Converter\obj\Debug\Simple Strings Converter.exe
+E:\projects\Simple Strings Converter\Simple Strings Converter\obj\Debug\Simple Strings Converter.pdb
