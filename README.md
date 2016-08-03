@@ -1,6 +1,6 @@
 # Simple Strings Converter for ESO
 
-Encodes and decodes Cyrillic text for RuESO.
+This program is suitable for simple strings (without excess).
 
 ## Usage
 
