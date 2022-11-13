@@ -1,6 +1,6 @@
 # Simple Strings Converter for ESO
 
-This program is suitable for simple strings (without excess).
+This program is suitable for simple strings (without excess).в
 
 ## Usage
 
